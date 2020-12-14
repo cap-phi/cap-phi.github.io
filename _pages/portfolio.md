@@ -11,8 +11,8 @@ header:
 #   teaser: /assets/images/foo-bar-identity-th.jpg
 sidebar:
   - title: "Current Role"
-    # image: http://placehold.it/350x250
-    # image_alt: "logo"
+    # image: /assets/images/emoji1-small.jpg
+    image_alt: "emoji"
     text: "Developer - (Thinker-Feeler-Carer)"
   - title: "Current Projects"
     text: "Intelligent Webscraping; Painting; "

@@ -15,3 +15,9 @@ main:
   
   - title: "About"
     url: /about/
+
+  - title: "HIW"
+    url: /wikipedia/
+
+  - title: "Portfolio"
+    url: /portfolio/
